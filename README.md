@@ -32,14 +32,13 @@
   </a>
 </div>
   
-***  
+
   
 <br> 
 <div align="left"><p><a href="https://android.jlelse.eu/the-beginners-guide-to-hacktoberfest-2019-winning-the-t-shirt-1a03b67e68"><img alt="New" align="center" src="https://img.shields.io/badge/%F0%9F%93%84%20-NEW-red.svg" /></a>&nbsp;
 <b>The pull requests on this repository will not be considered for Hacktoberfest 2020 as per their guidelines on <a href="https://hacktoberfest.digitalocean.com/details">their core values</a>. This repository is a simple example for begginers who can learn to create their first pull request. A full beginner's guide about Hacktoberfest 2020 is now published. You can <a href="https://android.jlelse.eu/the-beginners-guide-to-hacktoberfest-2019-winning-the-t-shirt-1a03b67e68">read it on this link here. →</a>.
         </b></p></div>  
 
-***  
   
 # ❓ What's Hacktoberfest 2020?
 Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a month long festival of open source code presented by [Digital Ocean](https://www.digitalocean.com/), [Intel](https://hacktoberfest.digitalocean.com/intel.pdf) and [DEV](https://www.dev.to/) this year in 2020.
@@ -92,7 +91,7 @@ Here's an example of my profile
 
 ```
 Wajahat Karim
-```
+
 - Website (http://wajahatkarim.com)
 - Twitter (http://twitter.com/wajahatkarim)
 - Medium (http://www.medium.com/@wajahatkarim3)
